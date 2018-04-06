@@ -9,7 +9,7 @@ please add line to config.ini for all nodes:
 access-control-allow-origin = *   
 to allow access to monitor  
   
-Example: http://testnetmonitor.eosgreen.io/ 
+Example: http://superhero3monitor.eosgreen.io/ 
 
 # Creators
 WebSite: http://cryptolions.io/  
