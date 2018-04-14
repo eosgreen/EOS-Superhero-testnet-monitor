@@ -299,7 +299,7 @@ var blockProducerList = [
     "block_signing_key": "EOS78M4WBz48hUfwQ14yceBvaS4xZGDyaoyGM3bsLxggzvPHHcAC"
   },
   {
-    "bp_name": "skeleton",
+    "bp_name": "skeletor",
     "organisation": "EOSBIXIN",
     "location": "Thailand,Bangkok",
     "node_addr": "128.1.39.27",
