@@ -328,6 +328,16 @@ var blockProducerList = [
     "port_p2p": "9876",
     "block_signing_key": "EOS8Zj999MDCzMo1gDuyieFCMMsHKyfPxUB4towsmbjXXQShsFA5a"
   },
+   {
+    "bp_name": "loki",
+    "organisation": "spear.fund",
+    "location": "Dayton,Ohio",
+    "node_addr": "35.202.41.160",
+    "port_http": "8888",
+    "port_ssl": "",
+    "port_p2p": "9876",
+    "block_signing_key": "EOS8kPE11KY4jBHNEPUnhDfdGwmpZT68YjtjtdRcNnKJjN2b7R1KQ"
+  },
   {
     "bp_name": "xavier",
     "organisation": "EOSBR",
